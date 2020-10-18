@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CookAction : GoapAction
 {
+    public bool done;
     public float duration = 3.0f; // seconds
     public CookAction()
     {
