@@ -1,2 +1,102 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassAction">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICQAAAAAAQAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Actions\ClassAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookAction">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICQAAAAAAQAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Actions\CookAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeworkAction">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICQAAAAAAQAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Actions\HomeworkAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayAction">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICQAAAAAAQAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Actions\PlayAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShoppingAction">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICQAAAAAAQAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Actions\ShoppingAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SleepAction">
+    <Position X="7.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICQAAAAAAQAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Actions\SleepAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraControl" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\CameraControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoapAction">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAACAAAAAAAQIAAkQAAEAAAQAQAACAAAEAAAAAA=</HashCode>
+      <FileName>Assets\Script\GoapAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoapPlanner">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAQABCAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GoapPlanner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAABAAAAAAAAAAAAQAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GoapPlanner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Property">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Script\Property.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roommate">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GIQAEgAAgCAACBgAABggAAAAAQQIABAEQAAAACAgAEE=</HashCode>
+      <FileName>Assets\Script\Roommate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASECBAAADAAAAQAICAAAAAgABYABEAAQAgAAgAAEEE=</HashCode>
+      <FileName>Assets\Script\UI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="eStatus">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAABAAQAAAAAAAAAAhAAAAAAAIAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Enum\eStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
