@@ -11,15 +11,15 @@ NavMeshProjectSettings:
     cost: 1
   - name: Jump
     cost: 2
-  - name: 
+  - name: Kitchen
     cost: 1
-  - name: 
+  - name: Shopping
     cost: 1
-  - name: 
+  - name: Play
     cost: 1
-  - name: 
+  - name: Study
     cost: 1
-  - name: 
+  - name: Bed
     cost: 1
   - name: 
     cost: 1
