@@ -20,9 +20,9 @@ public class Wall
 
 public enum WallType
     {
+        None,
         Default,
         Door,
         Window,
-        Window_Fre,
-        
+        Window_Balcony,
     }
